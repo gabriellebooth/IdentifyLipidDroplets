@@ -1,6 +1,8 @@
 // Trying to Identify Lipid Dropplets
 
 
+//chien was here.
+
 run("Set Measurements...", "area mean centroid shape redirect=None decimal=3");
 
 run("Split Channels");
